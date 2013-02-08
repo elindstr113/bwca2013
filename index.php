@@ -3,7 +3,7 @@
 	<head>
 		<title>Boundary Waters 2013</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link rel="stylesheet" type="text/css" href="/css/main.css"/>
+		<link rel="stylesheet" type="text/css" href="css/main.css"/>
 	</head>
 	<body>
 		<?php
