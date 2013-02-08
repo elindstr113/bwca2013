@@ -1,0 +1,40 @@
+body {
+	margin:0;
+}
+
+root { 
+	display: block;
+}
+
+#banner {
+	background-color:navy;
+	color:white;
+	font-size:26pt;
+	font-weight:bold;
+	padding:5px;
+	text-align:right;
+}
+
+#menubar {
+	background-color:#dedede;
+	border-bottom:solid black 1px;
+	border-top:solid black 1px;
+}
+
+.menuitem {
+	float:left;
+	width:75px;
+	font-size:10pt;
+	font-family:verdana;
+	text-align:center;
+	padding-top:2px;
+	border-right:solid black 1px;
+	margin:0;
+}
+
+
+.menuitem:hover {
+  background-color:gold;
+	color:navy;
+	cursor:pointer;
+}
