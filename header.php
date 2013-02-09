@@ -1,8 +1,10 @@
 <div id="header">
 	<div id="banner">
-		BWCA 2013
+            <div id="bannerText">
+                <span>BWCA 2013</span><br/>
+                St. James Lutheran Church
+            </div>
 	</div>
-
 	<div class="menuitem" onclick="window.location='index.php'">Home</div>
 	<div class="menuitem" onclick="window.location='people.php'">People</div>
 	<div class="menuitem" onclick="window.location='map.php'">Map</div>
