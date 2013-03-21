@@ -73,7 +73,9 @@ root {
 	padding-left:5px;
 	padding-right:5px;
 }
-#mapDiv {
-    text-align:center;
-    margin-top:5px;
-}
+
+#mapLegend {background-color:white;}
+#mapLegend th {background-color:black; color:white}
+#mapLegend td {padding-left:5px;padding-right:5px;}
+
+.bpad {padding-left:5px;padding-right:5px;}
