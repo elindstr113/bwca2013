@@ -10,7 +10,7 @@
 			include_once 'header.php';
 		?>
 		<br/>
-		<table id="peopleTable" border="0" cellspacing="0" cellpadding="2" align="center">
+		<table class="bodyTable" border="0" cellspacing="0" cellpadding="2" align="center">
 			<tr>
 				<th>Name</th>
 				<th>Home</th>
