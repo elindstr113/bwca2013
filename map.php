@@ -19,7 +19,7 @@
                         </tr>
                         <tr>
                             <td>Begin</td>
-                            <td>EP 16</td>
+                            <td>EP 16 (West)</td>
                             <td></td>
                         </tr>
                         <tr>
@@ -49,7 +49,7 @@
                         </tr>
                         <tr>
                             <td>Exit</td>
-                            <td>EP 77</td>
+                            <td>EP 77 (East)</td>
                             <td align="right">4.3 miles</td>
                         </tr>
                         <tr>
@@ -62,7 +62,7 @@
                 <td valign="top" class="bpad">
                     <div id="mapDiv">
                         <a href="https://maps.google.com/maps/ms?msid=210438083767512683966.0004d3af1a310d377dc5d&msa=0&ll=48.141349,-91.700821&spn=0.35556,0.836334" target="_blank">
-                            <img src="images/map.png"></a>
+                            <img src="images/map.png" border="1" style="border-color:black;box-shadow:5px 5px 5px #000;"></a>
                     </div>
                 </td>
             </tr>

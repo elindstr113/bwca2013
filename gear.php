@@ -4,13 +4,18 @@
     <title>BWCA2013:Gear</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <style>
+      td:nth-child(2) {
+        text-align:center;
+      }
+      </style>
   </head>
   <body>
     <?php
     include_once 'header.php';
     ?>
     <br/>
-    <table align="center" border="1" cellspacing="0" cellpadding="0" rules="none">
+    <table align="center" border="1" cellspacing="0" cellpadding="0" rules="none" class="bodyTable">
       <tr><th>ITEM</th><th>QTY</th></tr>
       <tr><td>Tee Shirts</td><td>3</td></tr>
       <tr><td>Shorts/suit</td><td>3</td></tr>
@@ -23,7 +28,7 @@
       <tr><td>Blowup pillow</td><td>1</td></tr>
       <tr><td>Camera</td><td>1</td></tr>
       <tr><td>Raincoat</td><td>1</td></tr>
-      <tr><td>Headlamp/flashlight</td><td>1</td></tr>
+      <tr><td>Headlamp / flashlight</td><td>1</td></tr>
       <tr><td>Baby wipes</td><td>12</td></tr>
       <tr><td>Rope</td><td>50'</td></tr>
       <tr><td>Allergy pills</td><td>6</td></tr>
@@ -47,7 +52,7 @@
       <tr><td>Fishing pole</td><td>1</td></tr>
       <tr><td>Assorted fishing gear</td><td>1</td></tr>
       <tr><td>Forceps</td><td>1</td></tr>
-      <tr><td>First aid kit</td><td></td></tr>
+      <tr><td>First aid kit</td><td>1</td></tr>
     </table>
   </body>
 </html>
