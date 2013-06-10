@@ -30,7 +30,7 @@
 				<td></td>
 			</tr>
 			<tr>
-				<td>Casey</td>
+				<td>Casey Seymour</td>
 				<td></td>
 				<td></td>
 				<td></td>

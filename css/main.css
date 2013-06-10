@@ -36,10 +36,11 @@ root {
 
 .menuitem {
 	float:left;
-	width:75px;
+	width:100px;
 	font-size:10pt;
 	font-family:verdana;
 	text-align:center;
+  white-space: nowrap;
 	padding-top:2px;
 	background-color:#dedede;
 	border-bottom:solid black 1px;
@@ -74,4 +75,12 @@ root {
 	border:solid black 1px;
 	padding-left:5px;
 	padding-right:5px;
+}
+
+.qty {
+  text-align:center;
+  vertical-align:top;
+}
+ul {
+  margin:0px;
 }

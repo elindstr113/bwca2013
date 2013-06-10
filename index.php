@@ -9,5 +9,11 @@
 		<?php
 		include_once 'header.php';
 		?>
+    <br/>
+    <div style="text-align:center;">
+      <h2>Important!</h2>
+      Next meeting is June 30th at 11:00 am, following second service.
+    </div>
+    
 	</body>
 </html>
