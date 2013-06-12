@@ -22,18 +22,16 @@
 		<?php
 		include_once 'header.php';
 		?>
-<<<<<<< HEAD
     <br/>
     <div style="text-align:center;">
       <h2>Important!</h2>
       Next meeting is June 30th at 11:00 am, following second service.
-=======
-    
-    <div id="round">
-    Welcome!<br/>
-    This site has been developed to assist in communications regarding our upcoming trip to the Boundary Waters in northern Minnesota.
->>>>>>> ae135f639943180bd58c5d259106d640c3ebeac8
     </div>
-    
+    <br/><br/>
+    <div id="round">
+      Welcome!<br/>
+      This site has been developed to assist in communications regarding our upcoming trip to the Boundary Waters in northern Minnesota.
+    </div>
+
 	</body>
 </html>
