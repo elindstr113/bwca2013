@@ -19,7 +19,7 @@
 			</tr>
 			<tr>
 				<td>Eric Lindstrom</td>
-				<td>(231) 744-5961</td>
+				<td>(231) 744-5963</td>
 				<td>(231) 557-9583</td>
 				<td>eric.lindstrom@comcast.net</td>
 			</tr>
@@ -32,8 +32,8 @@
 			<tr>
 				<td>Casey Seymour</td>
 				<td></td>
-				<td></td>
-				<td></td>
+				<td>(231) 557-3533</td>
+				<td>seymour.acd@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Nick DuBois</td>
@@ -56,7 +56,7 @@
 			<tr>
 				<td>Joe Goodrich</td>
 				<td></td>
-				<td></td>
+				<td>(231) 903-1716</td>
 				<td></td>
 			</tr>
 			<tr>

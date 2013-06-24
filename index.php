@@ -5,7 +5,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<link rel="stylesheet" type="text/css" href="css/main.css"/>
     <style>
-      #round {
+      .round {
         border:solid black 1px;
         border-radius: 7px;
         padding:15px;
@@ -23,12 +23,12 @@
 		include_once 'header.php';
 		?>
     <br/>
-    <div style="text-align:center;">
+    <div class="round" style="text-align:center;">
       <h2>Important!</h2>
       Next meeting is June 30th at 11:00 am, following second service.
     </div>
     <br/><br/>
-    <div id="round">
+    <div class="round">
       Welcome!<br/>
       This site has been developed to assist in communications regarding our upcoming trip to the Boundary Waters in northern Minnesota.
     </div>
