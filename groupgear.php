@@ -4,6 +4,11 @@
     <title>BWCA2013:Group Gear</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <style>
+      td:nth-child(1) {
+        text-align:center;
+      }
+      </style>
   </head>
   <body>
     <?php
@@ -13,7 +18,7 @@
     <table class="bodyTable" border="0" cellspacing="0" cellpadding="2" align="center" width="400px">
       <tr>
         <th>Qty</th>
-        <th>Description></th>
+        <th>Description</th>
       </tr>
       <tr>
         <td class="qty">1</td>
@@ -38,7 +43,6 @@
           <ul>
             <li>Big Spoon</li>
             <li>Ladle</li>
-            <li>Can Opener</li>
             <li>Sharp Knife</li>
           </ul>
         </td>
@@ -95,7 +99,7 @@
         <td class="qty">2</td>
         <td>Tents</td>
       </tr>
-      
+
     </table>
   </body>
 </html>
