@@ -1,83 +1,83 @@
 body {
-	margin:0;
-	font-size:10pt;
-	font-family:verdana;
+  margin:0;
+  font-size:10pt;
+  font-family:verdana;
   background-color:#D9CC99 ;
 }
 
 root { 
-	display: block;
+  display: block;
 }
 
 #header {
-		clear:both;
+    clear:both;
 }
 
 #banner {
-	background-image:url(../images/banner.jpg);
-        background-position: center;
-        height:110px;
+  background-image:url(../images/banner.jpg);
+  background-position: center;
+  height:110px;
 }
+
 #bannerText {
-        float:left;
-        width:250px;
-        padding-top:26px;
-        height:84px;
-	color:white;
-	text-align:center;
-	font-size:12pt;
-        text-shadow: 0.1em 0.1em 0.4em black;
+  float:left;
+  width:250px;
+  padding-top:26px;
+  height:84px;
+  color:white;
+  text-align:center;
+  font-size:12pt;
+  text-shadow: 0.1em 0.1em 0.4em black;
 }
 #banner span {
-	font-size:26pt;
-	font-weight:bold;
-        text-shadow: 0.1em 0.1em 0.4em black;
+  font-size:26pt;
+  font-weight:bold;
+  text-shadow: 0.1em 0.1em 0.4em black;
 }
 
 .menuitem {
-	float:left;
-	width:100px;
-	font-size:10pt;
-	font-family:verdana;
-	text-align:center;
+  float:left;
+  width:100px;
+  font-size:10pt;
+  font-family:verdana;
+  text-align:center;
   white-space: nowrap;
-	padding-top:2px;
-	background-color:#dedede;
-	border-bottom:solid black 1px;
-	border-top:solid black 1px;
-	border-right:solid black 1px;
-	margin:0;
+  padding-top:2px;
+  background-color:#dedede;
+  border-bottom:solid black 1px;
+  border-top:solid black 1px;
+  border-right:solid black 1px;
+  margin:0;
 }
 
 .menuitem:hover {
   background-color:gold;
-	color:navy;
-	cursor:pointer;
+  color:navy;
+  cursor:pointer;
 }
 
 .endMenuItem {
-	padding-top:2px;
-	background-color:#dedede;
-	border-bottom:solid black 1px;
-	border-top:solid black 1px;
+  padding-top:2px;
+  background-color:#dedede;
+  border-bottom:solid black 1px;
+  border-top:solid black 1px;
 }
 
 .bodyTable {
-	border-collapse:collapse;
+  border-collapse:collapse;
   background-color:white;
 }
 .bodyTable th {
-	background-color:black;
-	color:white;
-	border:solid black 1px;
+  background-color:black;
+  color:white;
+  border:solid black 1px;
 }
 .bodyTable td {
-	border:solid black 1px;
-	padding-left:5px;
-	padding-right:5px;
+  border:solid black 1px;
+  padding-left:5px;
+  padding-right:5px;
 }
 
-<<<<<<< HEAD
 .qty {
   text-align:center;
   vertical-align:top;
@@ -85,5 +85,3 @@ root {
 ul {
   margin:0px;
 }
-=======
->>>>>>> ae135f639943180bd58c5d259106d640c3ebeac8

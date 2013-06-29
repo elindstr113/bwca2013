@@ -32,8 +32,8 @@
 			<tr>
 				<td>Casey Seymour</td>
 				<td></td>
-				<td></td>
-				<td></td>
+				<td>(231) 557-3533 </td>
+				<td>seymour.acd@gmail.com</td>
 			</tr>
 			<tr>
 				<td>Nick DuBois</td>
