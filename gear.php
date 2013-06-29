@@ -29,7 +29,7 @@
       </tr>
       <tr>
         <td>3</td>
-        <td>Tee Shirts</td>
+        <td>tee shirts</td>
       </tr>
       <tr>
         <td>3</td>
@@ -68,8 +68,8 @@
         <td>camera</td>
       </tr>
       <tr>
-        <td></td>
-        <td>Life Jacket</td>
+        <td>1</td>
+        <td>life jacket</td>
       </tr>
       <tr>
         <td>1</td>
@@ -109,10 +109,6 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>toothpaste</td>
-      </tr>
-      <tr>
-        <td>1</td>
         <td>sanitizer</td>
       </tr>
       <tr>
@@ -124,7 +120,7 @@
         <td>compass</td>
       </tr>
       <tr>
-        <TD SDVAL="2" SDNUM="1033;">2</td>
+        <td>2</td>
         <td>AA batteries</td>
       </tr>
       <tr>
@@ -168,14 +164,17 @@
         <td>forceps</td>
       </tr>
       <tr>
-        <td><BR></td>
+        <td>1</td>
         <td>first aid kit</td>
       </tr>
       <tr>
-        <td><BR></td>
+        <td>1</td>
+        <td>toothpaste</td>
+      </tr>
+      <tr>
+        <td>1</td>
         <td>tooth brush</td>
       </tr>
-
     </table>
   </body>
 </html>
