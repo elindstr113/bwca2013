@@ -30,7 +30,7 @@
     <br/><br/>
     <div class="round" style="text-align:center;">
       <h2>Important!</h2>
-      Next meeting is June 30th at 11:00 am, following second service.
+      We will meet at the church at 6:00am on July 13th to pack and head out!
     </div>
 
 	</body>

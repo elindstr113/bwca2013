@@ -81,9 +81,9 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>1 (church)</td>
+        <td>1 (Henry)</td>
         <td></td>
-        <td>Cast Iron Fry Pan</td>
+        <td>Large Fry Pan</td>
       </tr>
       <tr>
         <td>1</td>
@@ -97,6 +97,7 @@
             <li>Spatula</li>
             <li>Metal Spatula</li>
             <li>Sharp Knife</li>
+            <li>Tongs</li>
             <li>Fillet Knife</li>
           </ul>
         </td>
@@ -117,7 +118,7 @@
         <td>1</td>
         <td>1</td>
         <td></td>
-        <td>Hot Pad / OvGlove</td>
+        <td>Oven Mits</td>
       </tr>
       <tr>
         <td>1</td>
